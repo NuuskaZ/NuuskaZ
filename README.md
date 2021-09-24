@@ -40,5 +40,7 @@ void loop() {
    digitalWrite(led4, HIGH);
   delay(500); 
   }
+  ![Leipälauta](https://user-images.githubusercontent.com/91258023/134660456-c4779746-9f0e-4905-b4c3-d7ccd5400684.jpg)
+
  
 ```
